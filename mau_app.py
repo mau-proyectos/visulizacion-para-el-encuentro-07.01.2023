@@ -33,7 +33,7 @@ df_expectativas = df_expectativas.dropna(how = 'all')
 #General Information for the main page
 
 #st.title("Movimiento de Agroecología Urbana - MAU")
-st.header("MAU - Red de cooperación mutua que fomenta, reivindiqua, y defiende el oficio de la agroecología en pro de la soberanía alimentaria")
+st.header("MAU - Red de cooperación mutua que fomenta, reivindiqua y defiende el oficio de la agroecología en pro de la soberanía alimentaria")
 
 tab1, tab2 = st.tabs(["Objetivo General", "Objetivos Específicos"])
 
