@@ -1,8 +1,7 @@
 import streamlit as st
-import pandas as pd
-import numpy as np
+import pandas    as pd
+import numpy     as np
 from st_aggrid import JsCode
-
 
 #Dashboard estructure
 st.set_page_config(
@@ -43,19 +42,20 @@ with tab1:
        - Desarrollar una red de cooperación mutua que fomente, reivindique, y defienda el oficio de la agroecología en pro de la soberanía alimentaria (MAU 3/12/2022)""")
 
 with tab2:
-   st.markdown("- Generar redes de apoyo para potenciar el intercambio de saberes, experiencias y recursos entre organizaciones y territorios urbanos, periurbanos y rurales")
+   st.markdown("- Generar redes de apoyo para potenciar el intercambio de saberes, experiencias y recursos entre organizaciones y territorios urbanos, \
+                  periurbanos y rurales")
    st.markdown("- Recuperar y regenerar los espacios para el aumento de la biodiversidad y el cultivo de alimentos saludables")
    st.markdown("- Generar estrategias metodológicas para compartir saberes y experiencias en torno a la agroecología urbana, periurbana y rural")
 
 st.markdown("""---""")
 
-#Tabs to organice information
+#Tabs to organize information
 st.subheader('🍃 Información General MAU') #
 
 # Key Variables
-total_members = df_bbdd['Organización_Huerta_Colectivo'].nunique()
+total_members     = df_bbdd['Organización_Huerta_Colectivo'].nunique()
 total_individuals = df_bbdd['Nombre_representante'].nunique()
-total_localidad = df_bbdd['Localidad'].nunique()
+total_localidad   = df_bbdd['Localidad'].nunique()
 
 left_column, middle_column, right_column = st.columns(3)
 with left_column:
@@ -73,15 +73,11 @@ st.markdown("""---""")
 st.sidebar.image("logo_mau.png", use_column_width=True)
 st.sidebar.subheader('🌻 Análisis 2do Encuentro MAU (3/12/2022)')
 
-
 ###Expectativas
 
-
 #Multiselector
-expectativas_s = st.sidebar.multiselect(
-    "Selecciona tematica de respuesta a ¿Qué esperas de una articulación entre huertas urbanas?",
-    options=df_expectativas["Indicador"].unique(),)
-
+expectativas_s = st.sidebar.multiselect("Selecciona temática de respuesta a ¿Qué esperas de una articulación entre huertas urbanas?",
+                                        options=df_expectativas["Indicador"].unique(),)
 df_expectativas_s = df_expectativas.query('Indicador == @expectativas_s')
 
 #Print in mainbar
@@ -91,7 +87,8 @@ st.subheader('Expectativas')
 df_expectativas_s.rename(columns = {
 'Indicador':'Dimensión',}, inplace = True)
 
-st.markdown('Análisis de respuestas a pregunta *"¿Qué esperas de una articulación entre huertas urbanas? Tus ideas nos pueden ayudar delinear el programa de futuros encuentros.*"')
+st.markdown('Análisis de respuestas a pregunta *"¿Qué esperas de una articulación entre huertas urbanas? \
+             Tus ideas nos pueden ayudar delinear el programa de futuros encuentros.*"')
 if  len(expectativas_s) == 0:
     st.caption(' 🥕 No hay información seleccionada')
 else:
@@ -115,9 +112,8 @@ df_foda_summary = df_foda_s[['Tipo','Transcripción','Clasificación Específica
 df_foda_summary.rename(columns = {
 'Tipo':'Dimensión',}, inplace = True)
 
-
-st.markdown('El análisis FODA es una herramienta de investigación participativa que permitió identificar características comunes entre los diferentes espacios que forman el MAU. Para ello se consideraron cuatro marcos de análisis: Debilidades, Amenazas, Fortalezas y Oportunidades')
-
+st.markdown('El análisis FODA es una herramienta de investigación participativa que permitió identificar características comunes entre los diferentes espacios \
+             que forman el MAU. Para ello se consideraron 4 marcos de análisis: Debilidades, Amenazas, Fortalezas y Oportunidades.')
 
 if  len(foda_s) == 0:
     st.caption('🥕 No hay información seleccionada')
@@ -125,8 +121,6 @@ else:
     st.markdown('Resultados:')
     st.table(df_foda_summary)
     st.caption('Fuente: Metodología Participativa, 2do Encuentro MAU (3/12/2022)')
-
-
 
 st.sidebar.subheader('🌽 Análisis de sistematización y mapeo')
 
@@ -156,22 +150,21 @@ if all_options:
 
 df_bbdd_filtered = df_bbdd_by_ter.query('Organización_Huerta_Colectivo == @miembros')
 
-
 # Key Variables filtered
-total_members_f = df_bbdd_filtered['Organización_Huerta_Colectivo'].nunique()
+total_members_f     = df_bbdd_filtered['Organización_Huerta_Colectivo'].nunique()
 total_individuals_f = df_bbdd_filtered['Nombre_representante'].nunique()
-total_localidad_f = df_bbdd_filtered['Localidad'].nunique()
-
+total_localidad_f   = df_bbdd_filtered['Localidad'].nunique()
 
 st.markdown("""---""")
 
 st.subheader("🌽 Análisis de sistematización y mapeo")
 
-df_bbdd_summary = df_bbdd_filtered[['Organización_Huerta_Colectivo','Nombre_representante','Mail Colectivo / Organización o mail personal','Localidad','Relación con la agroecología','Link redes sociales']]
+df_bbdd_summary = df_bbdd_filtered[['Organización_Huerta_Colectivo','Nombre_representante','Mail Colectivo / Organización o mail personal','Localidad', \
+                                    'Relación con la agroecología','Link redes sociales']]
 
 df_bbdd_summary.rename(columns = {
 'Organización_Huerta_Colectivo':'Nombre Organización, Huerta y/o Colectivo',
-'Nombre_representante':'Nombre persona representante',
+'Nombre_representante'         :'Nombre persona representante',
 'Mail Colectivo / Organización o mail personal':'Email',
 'Link redes sociales':'Instagram',}, inplace = True)
 
