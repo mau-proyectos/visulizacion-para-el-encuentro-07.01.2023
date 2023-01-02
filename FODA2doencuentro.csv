@@ -1,0 +1,241 @@
+﻿Foto;Nombre;Tipo;Transcripción;Clasificación Específica;Clasificación Agrupada
+12;Eco Huerta Bellavista (Bellavista Providencia);Oportunidades;Obtención de proyectos que permitan el mejoramiento;Acceso a fondos / Recursos;Acceso a fondos / Recursos
+12;Eco Huerta Bellavista (Bellavista Providencia);Oportunidades;Fondos para agua;Acceso a fondos / Recursos;Acceso a fondos / Recursos
+6;No Info;Oportunidades;Contar con recursos del sector (Campos, granjas, etc);Acceso a fondos / Recursos;Acceso a fondos / Recursos
+13;A;Oportunidades;Genera economía circular;Economía circular;Acceso a fondos / Recursos
+15;No Info;Oportunidades;Oportunidades de eco negocio (Educación-Turismo);Negocios y financiamiento;Acceso a fondos / Recursos
+2;Huerta Personal;Debilidades;Falta de rol de agua;Acceso permanente al agua;Acceso al Agua / Riegos
+1;Cara Ocupa;Debilidades;Agua clorada;Contaminación de agua;Acceso al Agua / Riegos
+7;No Info;Debilidades;No tengo agua de pozo;Falta de agua;Acceso al Agua / Riegos
+13;A;Debilidades;El pozo pierde año cada año;Falta de agua;Acceso al Agua / Riegos
+12;Eco Huerta Bellavista (Bellavista Providencia);Debilidades;Falta de riego;Falta de riego;Acceso al Agua / Riegos
+3;Huerta MIAU;Oportunidades;Alimentación;Alimentación;Alimentación
+13;A;Oportunidades;Puede generar mucha comida;Alimentación;Alimentación
+13;LOE;Oportunidades;Puede generar alimento ;Alimentación;Alimentación
+1;Cara Ocupa;Oportunidades;Feria 5 veces a la semana;Reciclaje orgánico;Alimentación
+2;Huerta Personal;Oportunidades;Feria para reciclaje orgánico;Reciclaje orgánico;Alimentación
+3;Huerta MIAU;Oportunidades;Reciclaje Orgánico;Reciclaje orgánico;Alimentación
+6;No Info;Oportunidades;Apoyo de la Universidad de Chile;Apoyo de organizaciones y universidades;Apoyos
+11;No Info;Oportunidades;UCH;Apoyo de organizaciones y universidades;Apoyos
+12;Eco Huerta Bellavista (Bellavista Providencia);Oportunidades;Vinculación con otras huertas;Apoyo de organizaciones y universidades;Apoyos
+12;Eco Huerta Bellavista (Bellavista Providencia);Oportunidades;Vinculación con parque metropolitano;Apoyo de organizaciones y universidades;Apoyos
+14;"AUCCA; Cala;Talagante";Oportunidades;Vinculo con otras organizaciones del territorio;Apoyo de organizaciones y universidades;Apoyos
+11;No Info;Oportunidades;Huerto Observatorio;Apoyo de organizaciones y universidades;Apoyos
+3;Huerta MIAU;Fortaleza;Banco de Semillas;Semillas;Base Biótica
+15;No Info;Fortaleza;Semillas de Orgánicas;Semillas;Base Biótica
+12;Eco Huerta Bellavista (Bellavista Providencia);Fortaleza;Heterogenea;Vegetación;Base Biótica
+6;No Info;Fortaleza;Disponibilidad de varidad de árboles nativos ya crecidos;Vegetación;Base Biótica
+7;No Info;Fortaleza;Muchos árboles que ayudan a regular la temperatura;Vegetación;Base Biótica
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Fortaleza;Alta biodiversidad y árbiles;Vegetación;Base Biótica
+17;"AUCCA; Nico";Fortaleza;Biodiversidad;Vegetación;Base Biótica
+5;No Info;Fortaleza;Amistad;Amistad;Base cultural
+17;"AUCCA; Nico";Oportunidades;Amistades;Amistad;Base cultural
+5;No Info;Oportunidades;Amor;Amor;Base cultural
+9;No Info;Oportunidades;Amor a los huertos;Amor;Base cultural
+12;Eco Huerta Bellavista (Bellavista Providencia);Fortaleza;Amor por el espacio y el medio ambiente;Amor por el medio ambiente;Base cultural
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Fortaleza;Disponibilidad MIDESCO sin costo económico;Apoyo;Base cultural
+4;"Huerto Escolar Alicura; Huertología Sur; Impulso Regeneración";Oportunidades;Crecimiento y acercamiento al ámbito de las niñeces;Apoyo a la infancia;Base cultural
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Oportunidades;Alta cantidade de niñes en el territorio;Apoyo a la infancia;Base cultural
+5;No Info;Fortaleza;Complicidad;Complicidad;Base cultural
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Fortaleza;Alto compromiso y pasión del equipo motor;Compromiso;Base cultural
+1;Cara Ocupa;Fortaleza;Constancia;Constancia;Base cultural
+2;Huerta Personal;Fortaleza;Constancia;Constancia;Base cultural
+14;"AUCCA; Cala;Talagante";Fortaleza;Funcionamiento;Continuidad en la organización;Base cultural
+14;"AUCCA; Cala;Talagante";Fortaleza;Continuidad;Continuidad en la organización;Base cultural
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Fortaleza;Continuidad del trabajo;Continuidad en la organización;Base cultural
+17;"AUCCA; Nico";Fortaleza;Convivencia;Convivencia;Base cultural
+14;"AUCCA; Cala;Talagante";Fortaleza;Espontaneidad;Espontaneidad;Base cultural
+5;No Info;Fortaleza;Goce;Goce;Base cultural
+13;LOE;Oportunidades;Puede generar identidad barrial;Identidad Barrial;Base cultural
+4;"Huerto Escolar Alicura; Huertología Sur; Impulso Regeneración";Fortaleza;Buena llegada con ñiñeses;Infancias;Base cultural
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Fortaleza;Alta presencia de infancia;Infancias;Base cultural
+18;No Info;Fortaleza;Las enseñanza a niños;Infancias;Base cultural
+5;No Info;Fortaleza;Interés;Interés;Base cultural
+3;Huerta MIAU;Fortaleza;Motivación;Motivación;Base cultural
+4;"Huerto Escolar Alicura; Huertología Sur; Impulso Regeneración";Fortaleza;Motivación y vocación;Motivación;Base cultural
+13;A;Fortaleza;Tenemos el intento de mantenerlo;Motivación;Base cultural
+15;No Info;Fortaleza;Buscar contantemente aprender;Motivación;Base cultural
+6;No Info;Fortaleza;Gusto común por la música;Musica;Base cultural
+15;No Info;Fortaleza;Perseverancia;Perseverancia;Base cultural
+12;Eco Huerta Bellavista (Bellavista Providencia);Fortaleza;Resilencia;Resiliencia;Base cultural
+14;"AUCCA; Cala;Talagante";Fortaleza;Resiliencia / Resistir;Resiliencia;Base cultural
+17;"AUCCA; Nico";Oportunidades;Sueños;Sueños;Base cultural
+12;Eco Huerta Bellavista (Bellavista Providencia);Fortaleza;Trabajo comunitario;Trabajo comunitario;Base cultural
+13;A;Fortaleza;Somos 6 personas que la sostienen ;Trabajo comunitario;Base cultural
+13;LOE;Fortaleza;Hoy cuidado constante de 2 personas;Trabajo comunitario;Base cultural
+11;No Info;Fortaleza;Valores en común, horizonte;Valores comunes;Base cultural
+11;No Info;Fortaleza;Antipatronaje en comín;Valores comunes;Base cultural
+18;No Info;Fortaleza;Valores en común;Valores comunes;Base cultural
+5;No Info;Oportunidades;Proyección larga;Visión;Base cultural
+1;Cara Ocupa;Fortaleza;Ya existe una organización (Espacio CARA OCUPA wiltralén rukan);Existencia de organización previa;Base experiencial
+8;No Info;Fortaleza;Existe organizaciones con valor? de trabajar, y durante los años se han levantado huertas y talleres vinculados;Existencia de organización previa;Base experiencial
+5;No Info;Fortaleza;Ejercución de proyectos;Experiencia;Base experiencial
+9;No Info;Fortaleza;Experiencia;Experiencia;Base experiencial
+10;Jazmín La Enredadera Huerta Miau;Fortaleza;Dirección de proyectos;Experiencia;Base experiencial
+11;No Info;Fortaleza;Multidiciplinariedad del equipo humano;Experiencia;Base experiencial
+13;LOE;Fortaleza;Es una huerta que nace de la experiencia;Experiencia;Base experiencial
+14;"AUCCA; Cala;Talagante";Fortaleza;Experiencias en diversos oficios que aquí se realizan ;Experiencia;Base experiencial
+17;"AUCCA; Nico";Fortaleza;Experiencia;Experiencia;Base experiencial
+15;No Info;Fortaleza;Personas donde entregar hiervas medicinales;Clientes / Beneficiarios;Base financiera
+15;No Info;Fortaleza;Local donde vender hiervas medicinales;Clientes / Beneficiarios;Base financiera
+4;"Huerto Escolar Alicura; Huertología Sur; Impulso Regeneración";Fortaleza;Conocimiento técnico;Conocimiento;Base intelectual
+5;No Info;Fortaleza;Interdisciplinariedad;Conocimiento;Base intelectual
+10;Jazmín La Enredadera Huerta Miau;Fortaleza;Capacidad de trabajo y conocimiento en agricultura y construcción;Conocimiento;Base intelectual
+11;No Info;Fortaleza;Innovadoras en la bio construcción ;Conocimiento;Base intelectual
+11;No Info;Fortaleza;Identificados con una figura a nivel mundial;Conocimiento;Base intelectual
+12;Eco Huerta Bellavista (Bellavista Providencia);Fortaleza;Mezcla de conociminento;Conocimiento;Base intelectual
+15;No Info;Fortaleza;Soy yerbatera de oficio;Conocimiento;Base intelectual
+15;No Info;Fortaleza;Soy tecnico social y me interesa participar en la comunidad;Conocimiento;Base intelectual
+17;"AUCCA; Nico";Fortaleza;Profesiones / Oficio;Conocimiento;Base intelectual
+17;"AUCCA; Nico";Fortaleza;Profesiones;Conocimiento;Base intelectual
+13;A;Fortaleza;Educación ;Educación ;Base intelectual
+10;Jazmín La Enredadera Huerta Miau;Fortaleza;Espacialidad ámplia para convocar vecines;Generación de redes;Base social
+10;Jazmín La Enredadera Huerta Miau;Fortaleza;Vecines motivados;Generación de redes;Base social
+10;Jazmín La Enredadera Huerta Miau;Fortaleza;Amigos para invistar a participar;Generación de redes;Base social
+13;A;Fortaleza;Tenemos y generamos redes;Generación de redes;Base social
+6;No Info;Fortaleza;Lazos entre vecinos y ex estudiantes;Generación de redes;Base social
+11;No Info;Fortaleza;Buen manejo de redes;Generación de redes;Base social
+9;No Info;Amenazas;Quimicos en el entorno;Agroquímicos;Contaminación
+13;A;Amenazas;Hoy uso de agro químicos en la cercanía;Agroquímicos;Contaminación
+15;No Info;Amenazas;Parcelas que usan agroquímico;Agroquímicos;Contaminación
+3;Huerta MIAU;Amenazas;Basura;Basura;Contaminación
+6;No Info;Amenazas;Gente que tira la basura;Basura;Contaminación
+7;No Info;Amenazas;Mi vecina tiene baño con fosa séptica aún;Contaminación de aguas;Contaminación
+13;A;Amenazas;Existe la necesidad de laburar;Incompatibilidad con el trabajo;Continuidad de proyectos
+2;Huerta Personal;Amenazas;El querer viajar de manera cortante;Inestabilidad de proyectos;Continuidad de proyectos
+4;"Huerto Escolar Alicura; Huertología Sur; Impulso Regeneración";Amenazas;Inestabilidad de proyectos;Inestabilidad de proyectos;Continuidad de proyectos
+11;No Info;Amenazas;Otras oportunidades laborales;Inestabilidad de proyectos;Continuidad de proyectos
+2;Huerta Personal;Amenazas;"Animales (bichitos; plaga)";Plagas;Control Biológico
+4;"Huerto Escolar Alicura; Huertología Sur; Impulso Regeneración";Debilidades;Incongruencia del ciclo escolar y el ciclo productivo con las huertas. ;Diferencia: Ritmos de la naturaleza vs sociedad;Educación
+11;No Info;Debilidades;Carencia de especialistas en ciertos temáticas;Falta de especialistas;Educación
+4;"Huerto Escolar Alicura; Huertología Sur; Impulso Regeneración";Debilidades;Escazes de herramientas pedagógicas;Falta herramientas pedagógicas;Educación
+7;No Info;Oportunidades;Acceso a video de youtube;Acceso a información y conocimiento;Educación / Autoformación
+7;No Info;Oportunidades;Poder a asistir a instancias como esta [encuentro MAU];Acceso a información y conocimiento;Educación / Autoformación
+7;No Info;Oportunidades;Vivir cerca de AUCCA;Acceso a información y conocimiento;Educación / Autoformación
+18;No Info;Oportunidades;Aprendizajes infinitas;Acceso a información y conocimiento;Educación / Autoformación
+17;"AUCCA; Nico";Oportunidades;Conocimientos;Acceso a información y conocimiento;Educación / Autoformación
+5;No Info;Oportunidades;Terreno aún bastante inexplorado y poco estudiado en Chile;Aprendizajes;Educación / Autoformación
+4;"Huerto Escolar Alicura; Huertología Sur; Impulso Regeneración";Oportunidades;Desarrollo de técnicas alternativas de modelos educativos;Educación alternativa;Educación / Autoformación
+15;No Info;Oportunidades;Posibilidad de compartir conocimiento;Enseñar;Educación / Autoformación
+15;No Info;Oportunidades;Acompañar a quienes están aprendiendo;Enseñar;Educación / Autoformación
+15;No Info;Oportunidades;Aportar a mi conocimiento;Enseñar;Educación / Autoformación
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Oportunidades;Vecinos con alto conocimiento;Redes;Educación / Autoformación
+8;No Info;Oportunidades;Espacio para desarrollar huertas;Espacio para huertas;Espacio para huertas
+10;Jazmín La Enredadera Huerta Miau;Oportunidades;Llegamos a un espacio nuevo a vivir y vantaremos pronto una huerta;Espacio para huertas;Espacio para huertas
+10;Jazmín La Enredadera Huerta Miau;Oportunidades;Espacios públicos abiertos e intimos;Espacio para huertas;Espacio para huertas
+9;No Info;Oportunidades;Vinculos con la villa y su entorno;Redes;Espacio para huertas
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Oportunidades;Vecinos con disposición al espacio;Redes;Espacio para huertas
+3;Huerta MIAU;Debilidades;Poco tiempo;Falta de tiempo;Falta de tiempo
+9;No Info;Debilidades;Tiempo de cada une;Falta de tiempo;Falta de tiempo
+10;Jazmín La Enredadera Huerta Miau;Debilidades;Falta de tiempo;Falta de tiempo;Falta de tiempo
+12;Eco Huerta Bellavista (Bellavista Providencia);Debilidades;Incompatibilidad horaria;Falta de tiempo;Falta de tiempo
+18;No Info;Debilidades;Falta de tiempo;Falta de tiempo;Falta de tiempo
+14;"AUCCA; Cala;Talagante";Oportunidades;Interés de otras experiencias en nuestro trabajo;Generar interés;Generar interés
+3;Huerta MIAU;Oportunidades;Difusión;Generar interés;Generar interés
+13;A;Oportunidades;Generar interés;Generar interés;Generar interés
+15;No Info;Oportunidades;Las personas vuelven a lo natural;Generar interés;Generar interés
+15;No Info;Oportunidades;Mayor información ;Generar interés;Generar interés
+1;Cara Ocupa;Debilidades;Los excesos;Excesos;Gestión Interna
+14;"AUCCA; Cala;Talagante";Debilidades;"Cuando ""la diferencia"" ha sido motivo de crisis interna";Gestión interna;Gestión Interna
+17;"AUCCA; Nico";Debilidades;Carácter/Temperamiento;Gestión interna;Gestión Interna
+17;"AUCCA; Nico";Debilidades;Dispersión;Gestión interna;Gestión Interna
+17;"AUCCA; Nico";Debilidades;Convivencia;Gestión interna;Gestión Interna
+17;"AUCCA; Nico";Debilidades;Ansiedad;Gestión interna;Gestión Interna
+9;No Info;Debilidades;Comunicación;Gestión interna;Gestión Interna
+10;Jazmín La Enredadera Huerta Miau;Debilidades;Casa de herrero cuchillo de palo;Gestión interna;Gestión Interna
+13;A;Debilidades;Comunicación;Gestión interna;Gestión Interna
+1;Cara Ocupa;Amenazas;Falta de conocimiento;Desconocimiento;Información
+12;Eco Huerta Bellavista (Bellavista Providencia);Amenazas;Desconocimiento;Desconocimiento;Información
+14;"AUCCA; Cala;Talagante";Debilidades;Ausencia de organización humana previa;Comenzar desde cero;Infraestructura / Recursos
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Debilidades;Falta de infraestructura;Falta de infraestructura;Infraestructura / Recursos
+6;No Info;Debilidades;Falta de infraestructura propia;Falta de infraestructura;Infraestructura / Recursos
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Debilidades;Falta de recursos ($);Faltan recursos;Infraestructura / Recursos
+5;No Info;Debilidades;Carencia de recursos económicos;Faltan recursos;Infraestructura / Recursos
+11;No Info;Debilidades;Inestabilidad económica;Faltan recursos;Infraestructura / Recursos
+13;LOE;Debilidades;Falta de Indumentaría;Faltan recursos;Infraestructura / Recursos
+13;LOE;Debilidades;Tecnología;Faltan recursos;Infraestructura / Recursos
+13;A;Oportunidades;Es autosostenible: cierre su ciclo;Autosostenibilidad;Logicas de organización
+3;Huerta MIAU;Oportunidades;Comunidad;Comunidad;Logicas de organización
+11;No Info;Oportunidades;Itinerario;Organización;Logicas de organización
+13;LOE;Oportunidades;Es una semilla por que la cuidan y trabajan niñes;Organización;Logicas de organización
+1;Cara Ocupa;Oportunidades;Un día fuera de cara ocupa witralen;Tiempo;Logicas de organización
+2;Huerta Personal;Oportunidades;Oportunidades laborales;Oportunidades laborales;Oportunidades laborales
+5;No Info;Oportunidades;Habilidades laborales;Oportunidades laborales;Oportunidades laborales
+1;Cara Ocupa;Debilidades;Bajo % de adherencia a las personas;Baja participación;Organización / Participación
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Debilidades;Baja participación de los vecinos;Baja participación;Organización / Participación
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Debilidades;Falta de manos responsables del trabajo (riego);Baja participación;Organización / Participación
+10;Jazmín La Enredadera Huerta Miau;Debilidades;Falta hacer un llamado general para iniciar;Baja participación;Organización / Participación
+11;No Info;Debilidades;Itinerancia;Baja participación;Organización / Participación
+3;Huerta MIAU;Debilidades;Desinterés;Bajo interés;Organización / Participación
+11;No Info;Debilidades;Distancia entre los practicantes;Distancia entre participantes;Organización / Participación
+8;No Info;Debilidades;Falta de continiudad de los proyectos;Falta de continuidad;Organización / Participación
+8;No Info;Debilidades;Flujo de gente que no es permanente;Falta de continuidad;Organización / Participación
+3;Huerta MIAU;Debilidades;Falta de organización;Falta de organización;Organización / Participación
+5;No Info;Debilidades;Dificultades en la organización constante;Falta de organización;Organización / Participación
+6;No Info;Debilidades;Organización un poco dispersa;Falta de organización;Organización / Participación
+14;"AUCCA; Cala;Talagante";Debilidades;Caducidad de los acuerdos;Poca organización;Organización / Participación
+5;No Info;Debilidades;Dificultades con muchoas ideas;Poca organización;Organización / Participación
+11;No Info;Oportunidades;Contexto Nacional ;Contexto nacional;Otros
+10;Jazmín La Enredadera Huerta Miau;Oportunidades;Centralidad en la ciudad, ñoñoa;Ubicación;Otros
+12;Eco Huerta Bellavista (Bellavista Providencia);Amenazas;Baja de la participación;Baja participación;Participación
+13;LOE;Amenazas;Abandono;Baja participación;Participación
+1;Cara Ocupa;Debilidades;Sector derecha;Sector político contrario al MAU;Política
+12;Eco Huerta Bellavista (Bellavista Providencia);Debilidades;"Autoridades ""anti huerta""";Sector político contrario al MAU;Política
+3;Huerta MIAU;Amenazas;Falta de recursos;Falta de recursos / financiamiento;Recursos e infraestructura
+5;No Info;Amenazas;Falta de retribución económica;Falta de recursos / financiamiento;Recursos e infraestructura
+10;Jazmín La Enredadera Huerta Miau;Amenazas;Falta de algunos recursos (pero no tan amaneza, solo hace más lento el trabajo);Falta de recursos / financiamiento;Recursos e infraestructura
+4;"Huerto Escolar Alicura; Huertología Sur; Impulso Regeneración";Amenazas;Falta de financiamiento;Falta de recursos / financiamiento;Recursos e infraestructura
+3;Huerta MIAU;Fortaleza;Agua Cerca;Acceso al agua;Recursos materiales
+13;A;Fortaleza;Tenemos agua;Acceso al agua;Recursos materiales
+13;LOE;Fortaleza;Tiene agua;Acceso al agua;Recursos materiales
+7;No Info;Fortaleza;Guano que puede recolectar del barrio;Guano;Recursos materiales
+5;No Info;Fortaleza;Herramientas profesionales;Herramientas;Recursos materiales
+13;A;Fortaleza;Herramientas;Herramientas;Recursos materiales
+9;No Info;Fortaleza;Infraestructura;Infraestructura;Recursos materiales
+14;"AUCCA; Cala;Talagante";Fortaleza;Materialidad;Infraestructura;Recursos materiales
+7;No Info;Fortaleza;Invernadero;Infraestructura;Recursos materiales
+13;A;Fortaleza;Sustentabilidad económica;Recusos;Recursos materiales
+3;Huerta MIAU;Fortaleza;Espacio Idioneo;Terreno;Recursos materiales
+6;No Info;Fortaleza;Terreno Grande;Terreno;Recursos materiales
+2;Huerta Personal;Fortaleza;Espacio propio;Terreno;Recursos materiales
+13;A;Fortaleza;Tenemos el espacio protegido;Terreno;Recursos materiales
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Fortaleza;Espacio perisférico;Terreno;Recursos materiales
+17;"AUCCA; Nico";Fortaleza;Territorio;Terreno;Recursos materiales
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Fortaleza;Alta superficie cultivable;Terreno;Recursos materiales
+7;No Info;Fortaleza;Territorio Propio;Terreno;Recursos materiales
+15;No Info;Fortaleza;Terreno;Terreno;Recursos materiales
+7;No Info;Oportunidades;La conectividad;Conectividad;Redes
+2;Huerta Personal;Oportunidades;Oportunidades sociales;Oportunidades sociales;Redes
+8;No Info;Oportunidades;Constar con redes que nos han apañado en el proceso de huerta;Redes;Redes
+13;A;Oportunidades;Redes;Redes;Redes
+15;No Info;Oportunidades;Redes social;Redes;Redes
+17;"AUCCA; Nico";Oportunidades;Redes;Redes;Redes
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Amenazas;Alta presencia de delincuencia;Delincuencia / Drogas / Inseguridad;Seguridad
+11;No Info;Amenazas;Pasta base y robos en el sector;Delincuencia / Drogas / Inseguridad;Seguridad
+3;Huerta MIAU;Amenazas;Exposición;Delincuencia / Drogas / Inseguridad;Seguridad
+3;Huerta MIAU;Amenazas;Sequía;Sequía;Sequía
+6;No Info;Amenazas;Que nos corten el agua;Sequía;Sequía
+13;A;Amenazas;La expansión demográfica genera escasez de agua;Sequía;Sequía
+14;"AUCCA; Cala;Talagante";Amenazas;Sequía;Sequía;Sequía
+9;No Info;Amenazas;Sistema capitalista;Capitalismo;Sistema político
+14;"AUCCA; Cala;Talagante";Amenazas;Política Institucional;Capitalismo;Sistema político
+14;"AUCCA; Cala;Talagante";Amenazas;Tratado Transpacífico;Capitalismo;Sistema político
+3;Huerta MIAU;Debilidades;Mucho Calor;Aumento del calor;Temperatura
+13;LOE;Amenazas;Exceso de calor;Calor;Temperatura
+6;No Info;Debilidades;Falta de sombra;Falta de sombra;Temperatura
+9;No Info;Amenazas;Arriendo del espacio;Arriendo del espacio;Territorio
+7;No Info;Amenazas;Construcciones aledañas a mi espacio donde ya se cortaron árboles lo cual hace más caluroso mi lugar;Aumento de area urbana;Territorio
+11;No Info;Amenazas;Innobiliarias;Aumento de area urbana;Territorio
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Amenazas;Exeso de cemento en el territorio;Aumento de area urbana;Territorio
+1;Cara Ocupa;Amenazas;Prender el espacio ya que es una ocupa Minera;Desalojo de espacio recuperado;Territorio
+8;No Info;Amenazas;Perder espacio ocupado y recuperado;Desalojo de espacio recuperado;Territorio
+8;No Info;Amenazas;Que es un espacio político el cual transitan varias organizaciones y existe el riesgo de desalojo;Desalojo de espacio recuperado;Territorio
+12;Eco Huerta Bellavista (Bellavista Providencia);Amenazas;Expropiación del espacio;Desalojo de espacio recuperado;Territorio
+15;No Info;Amenazas;Rehubicación ;Desalojo de espacio recuperado;Territorio
+16;"Espacio Liberado Millalemu; Nicolás Hidalgo Toledo";Amenazas;Amenaza constante de desalojo;Desalojo de espacio recuperado;Territorio
+18;No Info;Amenazas;Que nos quiten el espacio;Desalojo de espacio recuperado;Territorio
+10;Jazmín La Enredadera Huerta Miau;Debilidades;Mucho cemento;Aumento del cemento;Territorio / Suelos disponibles
+2;Huerta Personal;Debilidades;Falta de espacio (muy pequeño);Falta de espacio;Territorio / Suelos disponibles
+12;Eco Huerta Bellavista (Bellavista Providencia);Debilidades;Espacio reducido;Falta de espacio;Territorio / Suelos disponibles
+5;No Info;Debilidades;Falta de tierra para ejecutal proyectos;Falta de espacio;Territorio / Suelos disponibles
+6;No Info;Debilidades;Suelo muy deteriodado;Suelo degradado;Territorio / Suelos disponibles
