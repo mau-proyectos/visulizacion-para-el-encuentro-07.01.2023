@@ -176,8 +176,8 @@ else:
     with left_column:
         st.metric("Nº de Organizaciones, Huertas y/o Comunidades",total_members_f)
     with middle_column:
-        st.metric("Nº Personas representantes",total_individuals_f)
+        st.metric("Nº de Personas representantes",total_individuals_f)
     with right_column:
-        st.metric("Nº territorios identificados",total_localidad_f)
+        st.metric("Nº de Territorios identificados",total_localidad_f)
     st.table(df_bbdd_summary)
     st.caption('Fuente: Formularios de participación en 1er y 2do Encuentro MAU 2022')
