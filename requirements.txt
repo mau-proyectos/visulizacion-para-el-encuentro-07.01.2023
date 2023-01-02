@@ -1,0 +1,6 @@
+pandas
+streamlit
+numpy
+wordcloud
+matplotlib.pyplot
+re
